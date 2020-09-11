@@ -4,3 +4,4 @@ project_euler.sublime-workspace
 .vscode
 *.pyc
 test*
+__pycache__
