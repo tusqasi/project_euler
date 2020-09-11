@@ -1,0 +1,6 @@
+project_euler.code-workspace
+project_euler.sublime-project
+project_euler.sublime-workspace
+.vscode
+*.pyc
+test*
