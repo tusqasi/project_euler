@@ -119,6 +119,7 @@ def factors(n):
         factors.append(int(n))
     return factors
 
+
 def prime_before(n):
     """Gives prime before the given number
 
