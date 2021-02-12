@@ -15,7 +15,7 @@ def is_prime(n):
         if_prime_list = [False, ] * len(n)
         c = 0
         for i in n:
-            if PrimeFunctions.is_prime(i):
+            if is_prime(i):
                 if_prime_list[c] = True
             c += 1
         # and returns one with weather or not it's prime in place
